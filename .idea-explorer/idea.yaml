@@ -1,0 +1,29 @@
+idea:
+  title: Teaching Dialogue Agents to Detect Their Own Memory Gaps Through Policy Simulation
+  domain: nlp
+  hypothesis: 'Dialogue agents equipped with a meta-cognitive framework that simulates
+    responses under multiple memory policies and measures response divergence can
+    detect their own memory gaps, enabling them to take corrective actions such as
+    searching conversation history, asking users for clarification, or expressing
+    uncertainty.
+
+    '
+  background:
+    description: Inspired by AbsenceBench, dialogue agents using memory systems inevitably
+      forget conversation details due to storage constraints. Agents do not know when
+      they have forgotten something important, which can lead to harmful outputs such
+      as recommending peanut dishes to users with nut allergies or contradicting commitments
+      made many turns earlier. This idea proposes a meta-cognitive framework that
+      enables agents to detect memory gaps by simulating "what if I remembered differently?"
+      The approach involves generating responses under multiple memory policies (e.g.,
+      store everything, recent only, semantic search, importance weighted), measuring
+      response divergence across these policies, and taking corrective actions when
+      high divergence is detected.
+  metadata:
+    source: IdeaHub
+    source_url: https://hypogenic.ai/ideahub/idea/PPUh7T6knOWXGSvT5vGg
+    idea_id: teaching_dialogue_agents_to_de_20251211_221747_3a0ed380
+    created_at: '2025-12-11T22:17:47.706486'
+    status: submitted
+    github_repo_name: dialogue-agent-memory-bd8d
+    github_repo_url: https://github.com/ChicagoHAI/dialogue-agent-memory-bd8d
