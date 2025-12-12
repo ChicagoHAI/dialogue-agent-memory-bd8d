@@ -1,0 +1,452 @@
+[
+  {
+    "conversation_id": 0,
+    "query": "When did Caroline go to the LGBTQ support group?",
+    "ground_truth_answer": "7 May 2023",
+    "history_length": 419,
+    "divergence_score": 0.22306936979293823,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Caroline went to the LGBTQ support group yesterday, as mentioned in Turn 3 of the conversation.",
+      "recent_10": "The conversation history does not provide specific information about when Caroline attended the LGBTQ support group.",
+      "semantic_5": "Caroline went to the LGBTQ support group yesterday.",
+      "no_memory": "I'm sorry, but I don't have specific information about an individual named Caroline or her attendance at an LGBTQ support group. If you provide more context or details, I may be able to help you better."
+    }
+  },
+  {
+    "conversation_id": 0,
+    "query": "When did Melanie paint a sunrise?",
+    "ground_truth_answer": "2022",
+    "history_length": 419,
+    "divergence_score": 0.33891159296035767,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Melanie painted a lake sunrise last year, as mentioned in Turn 14.",
+      "recent_10": "The conversation history does not mention anything about Melanie painting a sunrise.",
+      "semantic_5": "Melanie painted the lake sunrise last year.",
+      "no_memory": "I'm sorry, but I don't have specific information about an individual named Melanie and when she painted a sunrise. If you could provide more context or details, I might be able to assist you better!"
+    }
+  },
+  {
+    "conversation_id": 0,
+    "query": "What fields would Caroline be likely to pursue in her educaton?",
+    "ground_truth_answer": "Psychology, counseling certification",
+    "history_length": 419,
+    "divergence_score": 0.2171120047569275,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Caroline would likely pursue fields related to counseling or mental health, specifically focusing on supporting trans individuals and those in the LGBTQ+ community. She has expressed a strong passion for helping others, particularly those who have gone through similar experiences as her.",
+      "recent_10": "Based on the conversation, Caroline is passionate about helping others and has a strong desire to offer love and support to those in need. She values self-acceptance and has experienced a journey of personal growth. Given these traits, Caroline would likely pursue fields related to social work, psychology, counseling, or education, where she can provide support and guidance to individuals, especially those facing challenges similar to what she has overcome.",
+      "semantic_5": "Based on the conversation, Caroline seems to be interested in fields related to art and possibly social themes such as love and acceptance. She may also be open to exploring various opportunities and experiences, suggesting she could pursue education in areas like the arts, social sciences, or even education.",
+      "no_memory": "To provide a more tailored response, could you share some information about Caroline's interests, strengths, or any specific areas she is passionate about? This would help in identifying the fields she might be likely to pursue in her education."
+    }
+  },
+  {
+    "conversation_id": 1,
+    "query": "When Jon has lost his job as a banker?",
+    "ground_truth_answer": "19 January, 2023",
+    "history_length": 369,
+    "divergence_score": 0.24007028341293335,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Jon lost his job as a banker in Turn 2 of the conversation history.",
+      "recent_10": "The conversation history does not mention Jon losing his job as a banker. Therefore, I cannot provide an answer to that question based on the information available.",
+      "semantic_5": "The conversation history does not provide specific information about when Jon lost his job as a banker.",
+      "no_memory": "Jon lost his job as a banker during a period of economic downturn when his bank implemented significant layoffs to cut costs. This decision affected many employees, including Jon, who had been with the company for several years. The loss of his job was a challenging experience for him, prompting him to reevaluate his career goals and consider new opportunities in different fields."
+    }
+  },
+  {
+    "conversation_id": 1,
+    "query": "When Gina has lost her job at Door Dash?",
+    "ground_truth_answer": "January, 2023",
+    "history_length": 369,
+    "divergence_score": 0.20015954971313477,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Gina lost her job at Door Dash earlier in the month, as mentioned in Turn 3 of the conversation.",
+      "recent_10": "The conversation history does not provide any information about Gina losing her job at Door Dash. Therefore, I cannot answer that question based on the available dialogue.",
+      "semantic_5": "Gina lost her job at Door Dash recently, as mentioned in Turn 104.",
+      "no_memory": "I'm sorry, but I don't have specific information about individuals or events unless they are publicly known or widely reported. If you have a specific context or details about Gina's situation, I can try to help with general advice or information related to job loss or similar situations. Let me know how I can assist you!"
+    }
+  },
+  {
+    "conversation_id": 1,
+    "query": "How do Jon and Gina both like to destress?",
+    "ground_truth_answer": "by dancing",
+    "history_length": 369,
+    "divergence_score": 0.27387285232543945,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Jon and Gina both like to destress through dancing. Jon finds joy and fulfillment in dancing, using it as a way to express himself and de-stress. Gina also mentions that dance is her go-to for stress relief, as it helps her feel free and happy.",
+      "recent_10": "The conversation history does not provide specific information about how Jon and Gina like to destress. However, it does indicate that Jon is passionate about dance and is working on opening a dance studio, which suggests that dancing might be a way for him to destress. Gina shows support for Jon's passion, but her own methods of destressing are not mentioned.",
+      "semantic_5": "The conversation history does not provide specific information about how Jon and Gina like to destress. It mainly focuses on Gina encouraging Jon and supporting his endeavors. If you have more context or details about their interests, I could help you better!",
+      "no_memory": "Jon likes to destress by going for long runs in nature, finding that the fresh air and exercise help clear his mind. On the other hand, Gina prefers to unwind by practicing yoga and meditation, allowing her to focus on her breathing and find inner peace. Both activities help them recharge and cope with daily stressors in their own ways."
+    }
+  },
+  {
+    "conversation_id": 2,
+    "query": "Who did Maria have dinner with on May 3, 2023?",
+    "ground_truth_answer": "her mother",
+    "history_length": 663,
+    "divergence_score": 0.27810055017471313,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Maria had dinner with her mom on May 3, 2023.",
+      "recent_10": "The conversation history does not provide any information about who Maria had dinner with on May 3, 2023.",
+      "semantic_5": "The conversation history does not provide any information about who Maria had dinner with on May 3, 2023.",
+      "no_memory": "I'm sorry, but I don't have access to specific personal events or private information about individuals, including Maria's dinner plans."
+    }
+  },
+  {
+    "conversation_id": 2,
+    "query": "When did Maria donate her car?",
+    "ground_truth_answer": "21 December 2022",
+    "history_length": 663,
+    "divergence_score": 0.29636621475219727,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Maria donated her old car to a homeless shelter she volunteers at about a week ago, as mentioned in Turn 17.",
+      "recent_10": "The conversation history does not mention Maria donating her car. Therefore, I cannot provide an answer to that question.",
+      "semantic_5": "The conversation history does not provide any information about when Maria donated her car.",
+      "no_memory": "I'm sorry, but I don't have information about when Maria donated her car. If you have more context or details, I might be able to help you better!"
+    }
+  },
+  {
+    "conversation_id": 2,
+    "query": "What martial arts has John done?",
+    "ground_truth_answer": "Kickboxing, Taekwondo",
+    "history_length": 663,
+    "divergence_score": 0.36707907915115356,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "John has done kickboxing and recently started a yoga class. He also mentioned trying out weight training, which he found challenging but peaceful, similar to yoga.",
+      "recent_10": "The conversation history does not provide any information about John practicing martial arts. Therefore, I cannot answer your question about what martial arts John has done.",
+      "semantic_5": "The conversation history does not provide specific information about what martial arts John has done.",
+      "no_memory": "John has trained in various martial arts, including Brazilian Jiu-Jitsu, Muay Thai, and boxing. He has also explored elements of karate and judo in his training. Each of these disciplines has contributed to his overall skill set in martial arts."
+    }
+  },
+  {
+    "conversation_id": 3,
+    "query": "Is it likely that Nate has friends besides Joanna?",
+    "ground_truth_answer": "Yesteammates on hisvideo game team.",
+    "history_length": 629,
+    "divergence_score": 0.13118427991867065,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY",
+    "responses": {
+      "full_context": "Yes, it is likely that Nate has friends besides Joanna. In the conversation, he mentions hanging out with people outside of his usual circle at a tournament, connecting with fellow gamers, and forming friendships with attendees at a game convention. These interactions suggest that he has a social circle that extends beyond just Joanna.",
+      "recent_10": "Yes, it is likely that Nate has friends besides Joanna. While the conversation focuses on his interaction with Joanna, he mentions taking his turtles to the beach and enjoying moments of peace, which suggests he may have other social activities or friendships outside of this dialogue.",
+      "semantic_5": "Yes, it's likely that Nate has friends besides Joanna. Given that Joanna encourages Nate to go out and meet people, it suggests that he may have a social life beyond just their interactions.",
+      "no_memory": "It's difficult to determine if Nate has friends besides Joanna without more context about his social life and relationships. However, if Nate is a sociable person or has interests that connect him with others, it's quite possible he has other friends. What do you think about Nate's personality or circumstances?"
+    }
+  },
+  {
+    "conversation_id": 3,
+    "query": "What kind of interests do Joanna and Nate share?",
+    "ground_truth_answer": "Watching movies, making desserts",
+    "history_length": 629,
+    "divergence_score": 0.16237229108810425,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY",
+    "responses": {
+      "full_context": "Joanna and Nate share a variety of interests, including a passion for writing and storytelling. Joanna is focused on screenwriting and has been working on multiple scripts, while Nate enjoys video gaming and participates in tournaments, often discussing his experiences with Joanna. They both appreciate movies, with Joanna enjoying dramas and romcoms, and Nate favoring action and sci-fi films. Additionally, they both enjoy cooking and baking, particularly focusing on dairy-free recipes due to Joanna's lactose intolerance. They also share an appreciation for nature, as Joanna loves hiking and Nate finds joy in spending time with his turtles. Overall, their conversations reflect a mutual encouragement for each other's creative pursuits and hobbies.",
+      "recent_10": "Joanna and Nate share an interest in animals, particularly turtles, as Nate enjoys having them around and finds peace in their presence. They also both appreciate food, as seen in their conversation about Nate's colorful bowls of coconut milk ice cream, with Joanna expressing enthusiasm for trying the recipe. Additionally, they both value moments of joy and relaxation in life.",
+      "semantic_5": "Joanna and Nate seem to share interests in drama and romance, as indicated by Joanna's mention of a mix of those genres. They also appear to value cherishing the little things in life, and they discuss enjoying food, with Nate expressing interest in trying something Joanna mentioned. Additionally, they talk about financial freedom and relaxation, suggesting they both appreciate the comforts that come with having extra cash.",
+      "no_memory": "Joanna and Nate share a variety of interests, including their passion for outdoor activities such as hiking and camping. They both enjoy exploring nature and spending time in the great outdoors. Additionally, they have a mutual love for cooking and trying out new recipes together, often experimenting with different cuisines. They also enjoy watching movies and binge-watching TV series, particularly in the genres of drama and comedy. Their shared interests in music and attending live concerts further strengthen their bond, allowing them to connect over their favorite artists and genres. Overall, their diverse range of interests helps them enjoy quality time together."
+    }
+  },
+  {
+    "conversation_id": 3,
+    "query": "When did Joanna first watch \"Eternal Sunshine of the Spotless Mind?",
+    "ground_truth_answer": "2019",
+    "history_length": 629,
+    "divergence_score": 0.20265036821365356,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Joanna first watched \"Eternal Sunshine of the Spotless Mind\" around 3 years ago.",
+      "recent_10": "The conversation history does not provide information about when Joanna first watched \"Eternal Sunshine of the Spotless Mind.\"",
+      "semantic_5": "The conversation history does not provide information about when Joanna first watched \"Eternal Sunshine of the Spotless Mind.\"",
+      "no_memory": "I'm sorry, but I don't have information about when Joanna first watched \"Eternal Sunshine of the Spotless Mind.\" If you have any other questions or need more information about the film, feel free to ask!"
+    }
+  },
+  {
+    "conversation_id": 4,
+    "query": "what are John's goals with regards to his basketball career?",
+    "ground_truth_answer": "improve shooting percentage, win a championship",
+    "history_length": 680,
+    "divergence_score": 0.13942474126815796,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY",
+    "responses": {
+      "full_context": "John's goals for his basketball career include winning a championship, improving his shooting percentage, being known as a consistent performer, and making a positive impact off the court through charity work. He also wants to inspire others and leave a meaningful legacy.",
+      "recent_10": "The conversation doesn't provide specific details about John's goals regarding his basketball career. However, it does indicate that he has put in a lot of hard work and training, which suggests that he is motivated to achieve success in that area. The mention of feeling a sense of accomplishment after reaching a goal implies that he is focused on achieving milestones in his basketball journey.",
+      "semantic_5": "John's goals for his basketball career include focusing on better shooting and becoming a consistent performer to help his team. He also aims to make a more significant impact on the court. Off the court, he is looking into endorsements and building his brand, as he is thinking about life after basketball.",
+      "no_memory": "John's goals regarding his basketball career may include several aspirations such as:\n\n1. **Skill Development**: He aims to improve his fundamental skills, including shooting, dribbling, and defensive techniques.\n\n2. **Team Contributions**: John wants to be a valuable player on his team, contributing to wins and helping his teammates succeed.\n\n3. **Higher Level Play**: He aspires to compete at higher levels, such as moving from high school basketball to college, or from college to professional leagues.\n\n4. **Recognition**: John may wish to earn awards, such as All-Conference or All-American honors, to gain recognition for his hard work and talent.\n\n5. **Building a Network**: He hopes to connect with coaches, players, and mentors who can help him advance in his career.\n\n6. **Long-term Career**: John dreams of playing professionally, whether in the NBA or overseas, and possibly pursuing a career in coaching or sports management after his playing days are over.\n\n7. **Personal Growth**: Beyond just basketball, he seeks to develop discipline, teamwork, and leadership skills that will benefit him in all areas of life.\n\n8. **Injury Prevention**: He aims to maintain his physical health and fitness to minimize injuries throughout his career.\n\nThese goals may evolve as John progresses in his basketball journey, influenced by his experiences and opportunities."
+    }
+  },
+  {
+    "conversation_id": 4,
+    "query": "What are John's goals for his career that are not related to his basketball skills?",
+    "ground_truth_answer": "get endorsements, build his brand, do charity work",
+    "history_length": 680,
+    "divergence_score": 0.19613319635391235,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY",
+    "responses": {
+      "full_context": "John's goals for his career that are not directly related to his basketball skills include making a positive difference in the community through charity work and inspiring others. He is focused on supporting youth sports and ensuring underserved communities have access to good sports programs. Additionally, he wants to build his brand and explore endorsement opportunities, aiming to leave a meaningful legacy beyond his basketball career.",
+      "recent_10": "The conversation does not provide specific details about John's career goals unrelated to his basketball skills. He mainly discusses feelings of accomplishment related to hard work and training in basketball, but there is no mention of other career aspirations or goals outside of that context.",
+      "semantic_5": "John is focused on building his brand and thinking about his future beyond basketball.",
+      "no_memory": "John's goals for his career that are not related to his basketball skills could include pursuing a degree in sports management, developing leadership and teamwork skills, engaging in community service or outreach programs, building a personal brand through social media, or exploring opportunities in coaching, sports commentary, or athletic training. Additionally, he might aim to leverage his platform to advocate for social issues, mentor younger athletes, or develop business ventures related to sports or fitness."
+    }
+  },
+  {
+    "conversation_id": 4,
+    "query": "What items does John collect?",
+    "ground_truth_answer": "sneakers, fantasy movie DVDs, jerseys",
+    "history_length": 680,
+    "divergence_score": 0.43311452865600586,
+    "gap_detected": true,
+    "recommended_action": "SEARCH_MEMORY",
+    "responses": {
+      "full_context": "John collects jerseys.",
+      "recent_10": "The conversation history does not mention any specific items that John collects.",
+      "semantic_5": "John collects jerseys.",
+      "no_memory": "John collects vintage comic books, rare coins, and antique postcards."
+    }
+  },
+  {
+    "conversation_id": 5,
+    "query": "Which year did Audrey adopt the first three of her dogs?",
+    "ground_truth_answer": "2020",
+    "history_length": 675,
+    "divergence_score": 0.25100177526474,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Audrey mentioned that she has had her dogs for 3 years, but she did not specify the exact year she adopted them. Therefore, it is not possible to determine the specific year she adopted the first three dogs based on the conversation history provided.",
+      "recent_10": "The conversation history does not provide specific information about the year Audrey adopted the first three of her dogs.",
+      "semantic_5": "The conversation history does not provide specific information about the year Audrey adopted her first three dogs. Therefore, I cannot answer that question based on the available data.",
+      "no_memory": "Audrey Hepburn adopted the first three of her dogs in 1966."
+    }
+  },
+  {
+    "conversation_id": 5,
+    "query": "When did Andrew start his new job as a financial analyst?",
+    "ground_truth_answer": "The week before March 27, 2023",
+    "history_length": 675,
+    "divergence_score": 0.2834305763244629,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Andrew started his new job as a Financial Analyst last week from the date of that conversation, which was mentioned in Turn 2 of the conversation history.",
+      "recent_10": "The conversation history does not provide any information about Andrew's job or when he started working as a financial analyst.",
+      "semantic_5": "Andrew started his new job as a Financial Analyst last week.",
+      "no_memory": "I'm sorry, but I don't have specific information about an individual named Andrew and when he started his job as a financial analyst. If you provide more context or details, I may be able to help with general information or advice related to financial analysts or job transitions."
+    }
+  },
+  {
+    "conversation_id": 5,
+    "query": "What kind of indoor activities has Andrew pursued with his girlfriend?",
+    "ground_truth_answer": "boardgames, volunteering at pet shelter, wine tasting, growing flowers",
+    "history_length": 675,
+    "divergence_score": 0.2868933081626892,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Andrew and his girlfriend have been enjoying board games together as an indoor activity. He mentioned having a fun night playing board games, which provided a nice break from their usual routines.",
+      "recent_10": "The conversation history does not provide specific details about the indoor activities that Andrew and his girlfriend have pursued. They have mainly discussed outdoor activities related to their dogs, such as taking them to the park and creating a comfortable space for Scout at home.",
+      "semantic_5": "Andrew hasn't specifically mentioned any indoor activities he's pursued with his girlfriend in the conversation history. However, he did mention that they have a dog, Toby, and that they enjoy going to a doggy daycare with a big indoor space for dogs to play, which could imply some indoor activities involving Toby.",
+      "no_memory": "Andrew has pursued a variety of indoor activities with his girlfriend, including cooking new recipes together, playing board games, watching movies or binge-watching series, doing puzzles, and even engaging in arts and crafts projects. They might also enjoy indoor workouts or yoga sessions, or simply having cozy nights in with good books or music."
+    }
+  },
+  {
+    "conversation_id": 6,
+    "query": "What are John's suspected health problems?",
+    "ground_truth_answer": "Obesity",
+    "history_length": 689,
+    "divergence_score": 0.3107895255088806,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Based on the conversation history, there are no explicit mentions of John's suspected health problems. However, he has expressed feelings of being overwhelmed and stressed, particularly related to balancing personal and professional life. This could imply some level of mental or emotional strain, but it does not indicate specific health problems. If you are looking for more information or have specific concerns, please clarify.",
+      "recent_10": "The conversation does not provide any information about John's suspected health problems. It primarily focuses on the joy and positivity that dogs bring to their lives.",
+      "semantic_5": "The conversation history does not provide any information about John's suspected health problems.",
+      "no_memory": "I'm sorry, but I don't have any specific information about an individual named John or his suspected health problems. If you can provide more context or details, I might be able to help you better."
+    }
+  },
+  {
+    "conversation_id": 6,
+    "query": "Which recreational activity was James pursuing on March 16, 2022?",
+    "ground_truth_answer": "bowling",
+    "history_length": 689,
+    "divergence_score": 0.3912270665168762,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "On March 16, 2022, James was pursuing the recreational activity of playing video games. He mentioned joining an online gaming tournament and had a great time competing, which he shared in his conversation with John.",
+      "recent_10": "The conversation history does not provide any information regarding James's recreational activities on March 16, 2022.",
+      "semantic_5": "The conversation history does not provide specific information about the recreational activity James was pursuing on March 16, 2022. Therefore, I cannot determine what that activity was.",
+      "no_memory": "On March 16, 2022, James was pursuing the recreational activity of skiing."
+    }
+  },
+  {
+    "conversation_id": 6,
+    "query": "Which places or events have John and James planned to meet at?",
+    "ground_truth_answer": "VR Club, McGee's, baseball game",
+    "history_length": 689,
+    "divergence_score": 0.3390805125236511,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "John and James have planned to meet at McGee's Pub, where they can enjoy a beer together. Additionally, they planned to go to a baseball game together, where James will show John what Samantha looks like.",
+      "recent_10": "There are no mentions of specific places or events that John and James have planned to meet at in the conversation history.",
+      "semantic_5": "Based on the conversation history, there are no specific places or events that John and James have planned to meet at. James mentioned being on a road trip and visiting friends, but there hasn't been any discussion about future meet-ups between John and James.",
+      "no_memory": "To provide an accurate response, I would need more context regarding who John and James are and what specific plans or events you are referring to. If you have details about their relationship or the activities they've discussed, please share them!"
+    }
+  },
+  {
+    "conversation_id": 7,
+    "query": "What kind of project was Jolene working on in the beginning of January 2023?",
+    "ground_truth_answer": "electricity engineering project",
+    "history_length": 681,
+    "divergence_score": 0.4078962802886963,
+    "gap_detected": true,
+    "recommended_action": "SEARCH_MEMORY",
+    "responses": {
+      "full_context": "In the beginning of January 2023, Jolene was working on a robotics project for her engineering class. She mentioned that it was tough but fun, and it was making her get creative and problem-solve.",
+      "recent_10": "The conversation history does not provide any information about a project that Jolene was working on in January 2023.",
+      "semantic_5": "The conversation history does not provide specific details about the nature of the project Jolene was working on in January 2023. It simply mentions that it worked out well and that Deborah found it inspiring.",
+      "no_memory": "In the beginning of January 2023, Jolene was working on a community outreach project aimed at improving local environmental awareness. The project involved organizing workshops, clean-up events, and educational sessions to engage the community in sustainable practices and promote environmental stewardship."
+    }
+  },
+  {
+    "conversation_id": 7,
+    "query": "Which of Deborah`s family and friends have passed away?",
+    "ground_truth_answer": "mother, father, her friend Karlie",
+    "history_length": 681,
+    "divergence_score": 0.3716105818748474,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Deborah has mentioned that her mother passed away a few years ago and that she also lost a friend named Karlie last week.",
+      "recent_10": "The conversation history does not provide any information about Deborah's family and friends who have passed away.",
+      "semantic_5": "Deborah has lost both her mother and her father. Her mother passed away a few years ago, and her father recently passed away two days ago.",
+      "no_memory": "I'm sorry, but I don't have any specific information about Deborah or her family and friends. If you provide more context, I may be able to help with general advice or information."
+    }
+  },
+  {
+    "conversation_id": 7,
+    "query": "When did Deborah`s mother pass away?",
+    "ground_truth_answer": "a few years before 2023",
+    "history_length": 681,
+    "divergence_score": 0.2778216004371643,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Deborah's mother passed away a few years ago, but the exact date is not specified in the conversation history.",
+      "recent_10": "The conversation history does not provide any information about Deborah's mother or when she passed away.",
+      "semantic_5": "The conversation history does not provide a specific date for when Deborah's mother passed away. However, it indicates that it was a significant and emotional experience for her.",
+      "no_memory": "I'm sorry, but I don't have any information about Deborah or her mother. If you provide more context, I may be able to help you better."
+    }
+  },
+  {
+    "conversation_id": 8,
+    "query": "What kind of car does Evan drive?",
+    "ground_truth_answer": "Prius",
+    "history_length": 509,
+    "divergence_score": 0.3817231059074402,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Evan drives a Prius.",
+      "recent_10": "The conversation history does not provide any information about the kind of car Evan drives.",
+      "semantic_5": "The conversation history does not provide any information about the kind of car Evan drives.",
+      "no_memory": "I'm sorry, but I need more context to provide an answer. \"Evan\" could refer to many different people, and without additional information, I can't determine what kind of car he drives. If you can provide more details or specify which Evan you're referring to, I'd be happy to help!"
+    }
+  },
+  {
+    "conversation_id": 8,
+    "query": "What kinds of things did Evan have broken?",
+    "ground_truth_answer": "His old Prius and his new Prius.",
+    "history_length": 509,
+    "divergence_score": 0.32544761896133423,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Evan had a few things that broke down. He mentioned that his old Prius broke down, which led him to get it repaired and sell it. More recently, his new Prius also broke down, which was a source of stress for him since he relies on it for his active lifestyle and road trips.",
+      "recent_10": "The conversation history does not provide any information about Evan having anything broken. It mainly focuses on the calming effects of nature and appreciating small moments.",
+      "semantic_5": "The conversation history does not provide specific details about what kinds of things Evan had broken. It mainly focuses on conversations about Evan's situation and feelings, without mentioning any broken items.",
+      "no_memory": "Evan had several things broken, including his phone, his favorite toy, and a few of his school supplies. Additionally, he might have had a broken bike and some other personal items that were damaged."
+    }
+  },
+  {
+    "conversation_id": 8,
+    "query": "Where has Evan been on roadtrips with his family?",
+    "ground_truth_answer": "Rockies, Jasper",
+    "history_length": 509,
+    "divergence_score": 0.34269213676452637,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Evan has been on road trips with his family to the Rockies and Jasper, where they enjoyed hiking trails and beautiful views. He also mentioned driving through the Icefields Parkway during their trip to Jasper.",
+      "recent_10": "The conversation history does not provide any specific information about where Evan has been on road trips with his family. If you have more context or details regarding Evan's road trip experiences, I'd be happy to help!",
+      "semantic_5": "The conversation history does not provide specific information about where Evan has been on road trips with his family.",
+      "no_memory": "Evan has been on road trips with his family to various places, including national parks, scenic coastal routes, and historical landmarks. They often explore destinations that allow them to enjoy nature, try local cuisine, and experience different cultures along the way. Some popular spots might include Yellowstone National Park, the Pacific Coast Highway, or visiting iconic cities like Washington, D.C. or New Orleans. Each trip is an opportunity for adventure and creating lasting memories together."
+    }
+  },
+  {
+    "conversation_id": 9,
+    "query": "When did Calvin first travel to Tokyo?",
+    "ground_truth_answer": "between 26 March and 20 April 2023",
+    "history_length": 568,
+    "divergence_score": 0.3177497982978821,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Calvin first traveled to Tokyo when he was on tour with Frank Ocean, which he mentioned in Turn 120.",
+      "recent_10": "The conversation history does not provide any information about Calvin's travel history, including when he first traveled to Tokyo.",
+      "semantic_5": "The conversation history does not provide specific information about when Calvin first traveled to Tokyo.",
+      "no_memory": "Calvin first traveled to Tokyo in 2019."
+    }
+  },
+  {
+    "conversation_id": 9,
+    "query": "What items did Calvin buy in March 2023?",
+    "ground_truth_answer": "mansion in Japan, luxury car Ferrari 488 GTB",
+    "history_length": 568,
+    "divergence_score": 0.33098721504211426,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Calvin mentioned that he got a new Ferrari in March 2023.",
+      "recent_10": "The conversation history does not provide any information about what items Calvin bought in March 2023. It mainly focuses on their discussion about serene spots, Calvin's upcoming performance in Boston, and their plans to catch up.",
+      "semantic_5": "I'm sorry, but there is no information in the conversation history regarding the items Calvin bought in March 2023.",
+      "no_memory": "I'm sorry, but I don't have access to specific transaction data or personal purchase history for individuals like Calvin in March 2023. If you have a specific context or scenario in mind, feel free to share more details!"
+    }
+  },
+  {
+    "conversation_id": 9,
+    "query": "When did Dave see Aerosmith perform live?",
+    "ground_truth_answer": "on the weekend before March 26, 2023",
+    "history_length": 568,
+    "divergence_score": 0.23121637105941772,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY",
+    "responses": {
+      "full_context": "Dave saw Aerosmith perform live during a music festival in Boston last weekend.",
+      "recent_10": "The conversation history does not provide any information about Dave seeing Aerosmith perform live. Therefore, I cannot answer that question.",
+      "semantic_5": "The conversation history does not specify the exact date when Dave saw Aerosmith perform live.",
+      "no_memory": "I'm sorry, but I don't have specific information about an individual named Dave and their experience seeing Aerosmith perform live. If you have any other questions or need information about Aerosmith's tours or performances, feel free to ask!"
+    }
+  }
+]

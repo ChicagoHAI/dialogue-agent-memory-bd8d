@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/code"
+      },
+      "log_file": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/logs/resource_finder_claude.log",
+      "transcript_file": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 986.0481061935425
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 2398.7119612693787,
+      "log_file": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/logs/execution_claude.log",
+      "transcript_file": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/data/hypogenicai/workspaces/dialogue-agent-memory-bd8d"
+}

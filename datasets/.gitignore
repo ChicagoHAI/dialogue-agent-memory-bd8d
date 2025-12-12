@@ -1,0 +1,10 @@
+# Exclude all data files (can be large)
+*
+
+# But include documentation and small samples
+!.gitignore
+!README.md
+!**/README.md
+!download_hf_datasets.py
+!validate_datasets.py
+!download_instructions.txt

@@ -1,0 +1,10 @@
+[project]
+name = "dialogue-agent-memory-research"
+version = "0.1.0"
+description = "Research workspace for teaching dialogue agents to detect their own memory gaps through policy simulation"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Is our universe the only one, or is it one of many?",
+    "answerable": false,
+    "divergence_score": 0.11306780576705933,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Will the world be better off with relatively more countries or relatively fewer?",
+    "answerable": false,
+    "divergence_score": 0.06995844841003418,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What baseball team, part of the ten-school collegiate athletic conference headquartered in Irving, Texas, was coached by Randy Mazey in 2016?",
+    "answerable": true,
+    "divergence_score": 0.011902093887329102,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Which historian says this opinion is indefensible?",
+    "answerable": true,
+    "divergence_score": 0.25755882263183594,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY"
+  },
+  {
+    "question": "What thinker believed that emotions were necessary for virtue?",
+    "answerable": true,
+    "divergence_score": 0.12655949592590332,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Am I my own master or am I controlled by someone else inside me?",
+    "answerable": false,
+    "divergence_score": 0.15545660257339478,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Why don't we understand how we got onto this Earth?",
+    "answerable": false,
+    "divergence_score": 0.21874332427978516,
+    "gap_detected": true,
+    "recommended_action": "EXPRESS_UNCERTAINTY"
+  },
+  {
+    "question": "Victor was helping the cafeteria workers pick up lunch trays. If he had to pick up 23 trays from one table and 5 trays from another, how many trips will he make?",
+    "answerable": false,
+    "divergence_score": 0.08467882871627808,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "If everyone on the planet jumped into the ocean at once, what would happen?",
+    "answerable": false,
+    "divergence_score": 0.10247820615768433,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What is the meaning of life?",
+    "answerable": false,
+    "divergence_score": 0.057232797145843506,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "If you blew a bubble in space would it pop?",
+    "answerable": false,
+    "divergence_score": 0.07617980241775513,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "\"What cleaning product was advertised as \"\"Stronger than dirt\"\"?\"",
+    "answerable": true,
+    "divergence_score": 0.009496867656707764,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Who is expected to lead the family in spiritual mentorship?",
+    "answerable": true,
+    "divergence_score": 0.056988537311553955,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Along with mood, temperament, disposition and motivation, what is emotion often tied to?",
+    "answerable": true,
+    "divergence_score": 0.0860743522644043,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What effect does the molten center of the earth have on the surface temperature?",
+    "answerable": false,
+    "divergence_score": 0.10889691114425659,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What type of organization provides internet access?",
+    "answerable": true,
+    "divergence_score": 0.03278881311416626,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Where do the lost socks actually go?",
+    "answerable": false,
+    "divergence_score": 0.053015708923339844,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Tasseomancy is a form of telling the future by doing what?",
+    "answerable": true,
+    "divergence_score": 0.02921849489212036,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "While playing at the arcade, Ned won 26 tickets playing 'whack a mole' and 19 tickets playing 'skee ball'. If he was trying to buy candy that cost 9 tickets a piece, how many photos could he buy?",
+    "answerable": false,
+    "divergence_score": 0.12087839841842651,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "The Proximity effect is sometimes mistakenly attributed to a professor at what univeristy?",
+    "answerable": true,
+    "divergence_score": 0.08930701017379761,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What is usually worn on the feet to compliment the costumes?",
+    "answerable": true,
+    "divergence_score": 0.10969036817550659,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Will we ever find a universal cure for cancer?",
+    "answerable": false,
+    "divergence_score": 0.13121384382247925,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What are individual cognition and collective behavior are levels of?",
+    "answerable": true,
+    "divergence_score": 0.039923012256622314,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Do animals have the experience of consciousness like human beings?",
+    "answerable": false,
+    "divergence_score": 0.08299583196640015,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "Can mankind ever survive entering the black hole?",
+    "answerable": false,
+    "divergence_score": 0.16009587049484253,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What country famously bans chewing gum?",
+    "answerable": true,
+    "divergence_score": 0.04602128267288208,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "In which European city would you be most likely to travel in a vaporetto",
+    "answerable": true,
+    "divergence_score": 0.019593536853790283,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "What nickname have dogs earned for their relationship to humans?",
+    "answerable": true,
+    "divergence_score": 0.027853012084960938,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "According to doctrine, because all thing don't last, attachment can lead to what?",
+    "answerable": true,
+    "divergence_score": 0.08686381578445435,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  },
+  {
+    "question": "How did the universe begin and why did it exist in the first place?",
+    "answerable": false,
+    "divergence_score": 0.07054084539413452,
+    "gap_detected": false,
+    "recommended_action": "ANSWER_CONFIDENTLY"
+  }
+]

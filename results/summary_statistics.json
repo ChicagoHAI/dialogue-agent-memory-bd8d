@@ -1,0 +1,27 @@
+{
+  "locomo": {
+    "n_samples": 30,
+    "mean_divergence": 0.28497294584910077,
+    "std_divergence": 0.07948163849473758,
+    "min_divergence": 0.13118427991867065,
+    "max_divergence": 0.43311452865600586,
+    "gap_detection_rate": 0.8666666666666667,
+    "action_distribution": {
+      "EXPRESS_UNCERTAINTY": 24,
+      "ANSWER_CONFIDENTLY": 4,
+      "SEARCH_MEMORY": 2
+    }
+  },
+  "selfaware": {
+    "n_samples": 30,
+    "n_answerable": 15,
+    "n_unanswerable": 15,
+    "mean_divergence_answerable": 0.06865596771240234,
+    "std_divergence_answerable": 0.06374667100389157,
+    "mean_divergence_unanswerable": 0.10702888170878093,
+    "std_divergence_unanswerable": 0.0452061145912839,
+    "auc_unanswerable_detection": 0.7466666666666667,
+    "gap_detection_rate_answerable": 0.06666666666666667,
+    "gap_detection_rate_unanswerable": 0.06666666666666667
+  }
+}
